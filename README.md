@@ -7,7 +7,7 @@ Mandated by the terms of `GNU GENERAL PUBLIC LICENSE (Version 3)`, we explicitly
 - `source/src/solver.cpp`: Both the DIP and the correct output of the DIP are now printed to the standard output. 
 - `source/src/ckt.cpp`: Commented out line 1802 `rewrite_buffers()`. 
 
-- The binaries in the `bin` folder are copied directly from the original repo and NOT compiled from the modified source code. Any user who wants to use the modified tool must go through the compiling process mentioned in `COMPILE`.
+- The binaries in the `bin` folder are copied directly from the original repo and NOT compiled from the modified source code. Any user who wants to use the modified tool must go through the compiling process mentioned in `COMPILING.md`.
 
 
 ---------------
